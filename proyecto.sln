@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "proyecto", "proyecto\proyecto.vbproj", "{8673F5B0-C02D-4972-82B6-CCB70E8C3168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8673F5B0-C02D-4972-82B6-CCB70E8C3168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8673F5B0-C02D-4972-82B6-CCB70E8C3168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8673F5B0-C02D-4972-82B6-CCB70E8C3168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8673F5B0-C02D-4972-82B6-CCB70E8C3168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
